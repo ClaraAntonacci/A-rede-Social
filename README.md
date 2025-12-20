@@ -1,4 +1,4 @@
-## A Rede Social 🎬
+## A Rede Social 
 
 Projeto acadêmico desenvolvido em HTML e CSS.
 
